@@ -14,8 +14,6 @@ I'm at the beginning of my tech journey, exploring one step at a time 🚶‍♂
 - 🌐 Web Development (HTML, CSS, JavaScript)
 - 🔏 Introduction to **Cryptography** and **Secure Coding**
 
----
-
 ## 🛠️ Projects
 
 ### 🔐 Cipher Tool (C + Web)
@@ -25,6 +23,20 @@ A beginner-friendly encryption & decryption tool using:
 Each operation generates a unique ID for message tracking.
 
 📦 Built using **C**, **Python (Flask)**, and basic **HTML/CSS/JS**
+
+---
+
+### 🗒️ Daily Notepad Widget (Electron)
+A Rainmeter-style sticky notepad app that lives on your desktop background and auto-loads a fresh daily note every time you start your computer.
+
+Features:
+- 📝 Auto-opens/creates a file for today's date
+- 📂 Saves all notes in `Documents/DailyNotes`
+- 🔐 Lock/unlock position via right-click
+- 🚀 Auto-starts on system login
+- 📋 Multi-page notes with a clean, frameless UI
+
+📦 Built using **JavaScript (Electron)**, with HTML/CSS for the front end
 
 ---
 
